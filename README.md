@@ -155,9 +155,10 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
 
 ## 📝 Citing <a name="citing"></a>
 ```
-@misc{Souvik:2023,
-  Author = {Souvik Majumder},
-  Title = {Land Cover Semantic Segmentation PyTorch},
+@misc{Sheihan:2025,
+  Author = {Mohammad Sheihan Javaid},
+  Title = {Deep Learning based Land Cover Segmentation
+},
   Year = {2023},
   Publisher = {GitHub},
   Journal = {GitHub repository},
